@@ -1,16 +1,16 @@
-### Hi there 👋
+OLA, SEJA BEM VINDO AO MEU PERFIL
 
-<!--
-**professoraldo/professoraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É PROFESSOR ALDO
 
-Here are some ideas to get you started:
+-SOU SEU PROFESSOR DE MATEMATICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-ESPERO PODER TE AJUDAR
+
+-CONTO COM SUA AJUDA
+
+-@aldoobla
+
+
+
+![](https://tenor.com/pt-BR/view/we-love-you-still-gif-22732805)
+estude na [alura](https://alura.com.br/)
